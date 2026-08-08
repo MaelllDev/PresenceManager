@@ -38,12 +38,10 @@ Set up your Discord status with custom text, activity type, images, timers and b
 
 | File | Type | Architecture |
 | --- | --- | --- |
-| [PresenceManager-Portable-x64.exe](#) | Portable | 64-bit |
-| [PresenceManager-Portable-x86.exe](#) | Portable | 32-bit |
-| [PresenceManager-Setup-x64.exe](#) | Installer | 64-bit |
-| [PresenceManager-Setup-x86.exe](#) | Installer | 32-bit |
-
-> Replace the `#` links with the actual asset links after uploading the files (or remove them — the GitHub UI already shows the files below).
+| [PresenceManager-Portable-x64.exe](https://github.com/MaelllDev/PresenceManager/releases/download/Release/PresenceManager-Portable-x64.exe) | Portable | 64-bit |
+| [PresenceManager-Portable-x86.exe](https://github.com/MaelllDev/PresenceManager/releases/download/Release/PresenceManager-Portable-x86.exe) | Portable | 32-bit |
+| [PresenceManager-Setup-x64.exe](https://github.com/MaelllDev/PresenceManager/releases/download/Release/PresenceManager-Setup-x64.exe) | Installer | 64-bit |
+| [PresenceManager-Setup-x86.exe](https://github.com/MaelllDev/PresenceManager/releases/download/Release/PresenceManager-Setup-x86.exe) | Installer | 32-bit |
 
 **Which one should I download?**
 
