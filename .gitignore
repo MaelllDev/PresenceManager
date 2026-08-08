@@ -1,0 +1,101 @@
+# ============================================
+# Presence Manager — .NET / Visual Studio
+# ============================================
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+*.cache
+*.pdb
+*.ipdb
+*.dll
+*.exe
+*.exe.config
+*.dll.config
+*.ilk
+*.log
+*.nupkg
+*.snupkg
+*.nuspec
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.appinstaller
+*.wixpdb
+*.spark
+*.dbg
+*.lpg
+*.cap
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish / output folders
+publish/
+artifacts/
+out/
+dist/
+
+# Logs
+*.log
+logs/
+
+# User-specific files (machine-specific, never commit)
+*.user
+*.userprefs
+*.vsidx
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+
+# Rider / other IDEs
+.idea/
+*.sln.iml
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local configuration that must never be published
+*.local.json
+appsettings.local.json
+secrets.json
+
+# Temporary files
+*.tmp
+*_tmp.*
+~$*
+*.bak
+*.orig
