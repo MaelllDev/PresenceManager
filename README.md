@@ -30,21 +30,17 @@ Presence Manager lets you create a personalized Discord Rich Presence without to
 
 ## Screenshots
 
-> Screenshots will be added here. The repository expects the following images:
->
-> - `docs/images/dashboard.png`
-> - `docs/images/presence-editor.png`
-> - `docs/images/settings.png`
->
-> Add the images to `docs/images/` and they will appear in this section.
+### Dashboard
 
-<!--
-Uncomment and add the images as they become available:
+<img src="docs/images/dashboard.png" width="640" alt="Dashboard" />
 
-![Dashboard](docs/images/dashboard.png)
-![Presence editor](docs/images/presence-editor.png)
-![Settings](docs/images/settings.png)
--->
+### Presence editor
+
+<img src="docs/images/presence-editor.png" width="640" alt="Presence editor" />
+
+### Settings
+
+<img src="docs/images/settings.png" width="640" alt="Settings" />
 
 ## Download
 
